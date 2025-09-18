@@ -71,6 +71,8 @@ html, body {
 body {
       background-image: url('resources/background.jpg');
       background-size: cover; 
+      background-position: center; 
+      background-repeat: no-repeat; 
       background: fixed;
     }
     
