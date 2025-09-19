@@ -74,6 +74,11 @@ body {
       background-repeat: no-repeat;
     }
     
+.page-content {
+  margin-top: 80px;
+}
+
+    
 header{
     text-align: center;
     font-size: 35px;
